@@ -1,4 +1,4 @@
-# ResourceDiscovery-DLA
+# Grid-RD-DLA
 <p align="justify"> Java codes for Grid Resource Discovery based on Distributed Learning Automata (RDDLA) <a href="http://link.springer.com/chapter/10.1007/978-3-319-10849-0_27"  target="_blank">[1]</a>. </p>
 <h2><a href="http://cld.persiangig.com/download/VZKxlxvI5d/SPRINGER-RDDLA-2014.pdf/dl" target="_blank">Full Text</a></h2>
 <h2><a id="abstract" class="anchor" href="#abstract" aria-hidden="true"><span class="octicon octicon-link"></span></a>Abstract</h2>
