@@ -8,6 +8,6 @@
 <h2><a id="reference" class="anchor" href="#reference" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference</h2>
 
 
-<p align="justify"> [1] Mohammad Hasanzadeh and Mohammad Reza Meybodi"<a href="http://link.springer.com/article/10.1007/s00607-013-0337-x"  target="_blank"> Grid resource discovery based on distributed learning automata</a>," Computing, 2014, vol. 96, no. 9, pp.909-922.</p>
+<p align="justify"> [1] Mohammad Hasanzadeh and Mohammad Reza Meybodi"<a href="http://link.springer.com/article/10.1007/s00607-013-0337-x"  target="_blank"> Grid resource discovery based on distributed learning automata</a>," Computing, 2014, vol. 96, no. 9, pp. 909-922.</p>
 
 
